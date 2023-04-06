@@ -1,2 +1,2 @@
 git fetch
-git pull --rebase origin/master
+git pull --rebase origin master
